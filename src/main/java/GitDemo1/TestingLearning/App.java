@@ -6,5 +6,6 @@ package GitDemo1.TestingLearning;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("HI helllo Bye");
     }
 }
